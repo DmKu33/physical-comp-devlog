@@ -64,12 +64,12 @@ https://stackoverflow.com/a/50916345/441878
 
 8\. Fork this repository into your own Github account and enable Github Pages. Paste the link to the public repo page below (github.com)
 
-- Your response
+- https://github.com/DmKu33/physical-comp-devlog
 
 
 9\. Check the public link (the live github.io URL) to this DevLog and make sure all your content is formatted correctly. Paste the link below.
 
-- Your response
+- https://dmku33.github.io/physical-comp-devlog/week-01.html
 
 
 10\. Paste the public link (the live github.io URL) to this finished DevLog into Moodle before (by 8am) the next class.
