@@ -51,7 +51,7 @@ https://stackoverflow.com/a/50916345/441878
 
 7\. What is the difference between an analog and digital component?
 
-- An analog component works with continuous signals = voltage can be any value across a range. A digital component only deals in discrete states (e.g., 1 or 0). 
+- An analog component works with continuous signals = voltage can be any value across a range. A digital component only deals in discrete states (e.g., 1 or 0).
 
 
 
